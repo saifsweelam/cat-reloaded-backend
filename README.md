@@ -54,3 +54,25 @@ This repository is to document my journey through Back-End Development with [CAT
 * [Questions](https://v20xluub906.typeform.com/to/iblOss8l)
 * [Solution](https://docs.google.com/document/d/1D-IGNf9_TA80S8roZtXev97XAlta_MNr0aa58ZsMb68/edit)
 
+## Week 4
+
+### Topics
+* What is a database
+* DBMSs
+* SQL Basics & SELECT statament
+* Intro to Relational Databases and Database Terms
+
+### Team Resources
+* [01 - Course Introduction & Relational Model (CMU Intro to Database Systems / Fall 2021)](https://www.youtube.com/watch?v=v4bU6n97Vr8)
+* [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc) [00:00:00 to 02:00:00]
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) [00:00:00 to 01:00:00]
+
+### Recommended Resources
+* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [First Lesson]
+
+### Theoritical Task
+[Summarization](./weeks/4/theoritical/)
+
+### Practical Tasks
+* [Questions](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
+* [Solution](./weeks/4/practical/)

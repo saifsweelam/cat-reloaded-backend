@@ -76,3 +76,28 @@ This repository is to document my journey through Back-End Development with [CAT
 ### Practical Tasks
 * [Questions](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
 * [Solution](./weeks/4/practical/)
+
+
+## Week 5
+
+### Topics
+* SQL Aggregations
+* Creating Tables and Constraints
+* INSERT, UPDATE, DELETE
+* Types of Database Relations
+* Database Keys
+
+### Team Resources
+* [02 - Intermediate SQL (CMU Intro to Database Systems / Fall 2021)](https://www.youtube.com/watch?v=B2fWjPGh-EU)
+* [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc) [02:00:00 to 04:00:00]
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) [01:00:00 to 02:00:00]
+
+### Recommended Resources
+* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [First & Second Lesson]
+
+### Theoritical Task
+[Summarization](./weeks/5/theoritical/)
+
+### Practical Tasks
+* [Questions](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
+* [Solution](./weeks/5/practical/)

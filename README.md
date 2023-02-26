@@ -126,3 +126,26 @@ This repository is to document my journey through Back-End Development with [CAT
 
 ### Practical Tasks
 [Problems](./weeks/6/practical/)
+
+## Week 7
+
+### Topics
+* Data Types
+* Joins and Aliases in detail
+* Nested Queries
+* Triggers
+* Designing ER Diagrams and Schemas
+
+### Team Resources
+* [04 - Database Storage II (CMU Intro to Database Systems / Fall 2021)](https://www.youtube.com/watch?v=ZJJwJ-auby8)
+* [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc) [06:00:00 to END]
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) [03:00:00 to END]
+
+### Recommended Resources
+* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [Fourth, Fifth, Sixth Lesson]
+
+### Theoritical Task
+[Summarization](./weeks/6/theoritical/)
+
+### Practical Tasks
+[Database Implementation](./weeks/6/practical/)

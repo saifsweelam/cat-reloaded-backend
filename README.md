@@ -119,7 +119,7 @@ This repository is to document my journey through Back-End Development with [CAT
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) [02:00:00 to 03:00:00]
 
 ### Recommended Resources
-* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [First & Third Lesson]
+* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [Second Lesson]
 
 ### Theoritical Task
 [Summarization](./weeks/6/theoritical/)

@@ -1,5 +1,5 @@
-# Week 5 Practical Problems
-Topic: _Basic SELECT and Aggregations_
+# Week 6 Practical Problems
+Topic: _Basic JOIN and Conditions_
 
 ## Problem 1
 

@@ -93,7 +93,7 @@ This repository is to document my journey through Back-End Development with [CAT
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) [01:00:00 to 02:00:00]
 
 ### Recommended Resources
-* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [First & Second Lesson]
+* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [First & Third Lesson]
 
 ### Theoritical Task
 [Summarization](./weeks/5/theoritical/)
@@ -101,3 +101,28 @@ This repository is to document my journey through Back-End Development with [CAT
 ### Practical Tasks
 * [Questions](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select)
 * [Solution](./weeks/5/practical/)
+
+
+## Week 6
+
+### Topics
+* Database Storage
+* Foreign Keys
+* Entity Relationship Modelling
+* Database Normalization
+* Basic Queries and Wildcards
+* Unions and Joins
+
+### Team Resources
+* [03 - Database Storage 1 (CMU Intro to Database Systems / Fall 2022)](https://www.youtube.com/watch?v=df-l2PxUidI)
+* [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc) [04:00:00 to 06:00:00]
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) [02:00:00 to 03:00:00]
+
+### Recommended Resources
+* [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [First & Third Lesson]
+
+### Theoritical Task
+[Summarization](./weeks/6/theoritical/)
+
+### Practical Tasks
+[Problems](./weeks/6/practical/)

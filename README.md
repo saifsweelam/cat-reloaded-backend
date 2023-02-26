@@ -145,7 +145,7 @@ This repository is to document my journey through Back-End Development with [CAT
 * [SQL for Data Analysis by Mode - Free Udacity Course](https://www.udacity.com/course/sql-for-data-analysis--ud198) [Fourth, Fifth, Sixth Lesson]
 
 ### Theoritical Task
-[Summarization](./weeks/6/theoritical/)
+[Summarization](./weeks/7/theoritical/)
 
 ### Practical Tasks
-[Database Implementation](./weeks/6/practical/)
+[Database Implementation](./weeks/7/practical/)
